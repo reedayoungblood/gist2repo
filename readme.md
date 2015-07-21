@@ -6,5 +6,5 @@ But I am making this for no reason.
 
 These notes have a checklist
 
-- [ ] Checklist
+- [x] Checklist
 - [ ] Two
