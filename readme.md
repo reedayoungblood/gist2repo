@@ -1,8 +1,10 @@
-# This is a header for no reason
+# THIS is a real header for no reason
+
+## This is a header for no reason
 
 But I am making this for no reason.
 
-## Notes 
+### Notes 
 
 These notes have a checklist
 
