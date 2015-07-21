@@ -7,4 +7,4 @@ But I am making this for no reason.
 These notes have a checklist
 
 - [x] Checklist
-- [ ] Two
+- [x] Two
